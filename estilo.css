@@ -1,0 +1,126 @@
+body {
+    background-color: black;
+}
+
+.subtitulo {
+    background-color: #ffffff;
+ }
+
+li{
+    color: rgb(255, 255, 255);
+    font-family: 'Poppins', 'sans-serif';
+}
+
+.nome_destaque {
+    color: #fbeb00;
+    font-family: Poppins, sans-serif;
+    margin-bottom: 0px;
+    margin-top: 40px;
+    margin-left: 30px;
+    font-size: 20px;
+    padding: 2px 1em 0 1em;
+    
+}
+
+.frase_motivacional {
+     color: #ffffff;
+     font-family: Poppins;
+     margin-bottom: 0px;
+     margin-top: 100px;
+     margin-left: 60px;
+     font-size: 65px;
+     
+
+}
+
+
+.subtexto {
+    color: #ffffff;
+    font-family: "Poppins";
+    font-weight: lighter;
+    font-size: 18px;
+    margin-bottom: 90px;
+    margin-top: 20px;
+    margin-left: 60px;
+
+
+}
+
+#form {
+  font-family: Poppins, Arial;
+  margin-top: 0;
+  left: 50px;
+  right: 50px;
+  background-color: #ffffff; 
+  padding: 50px;
+  border-radius: 30px;
+  margin-left: 22%;
+  margin-right: 35%;
+  position: left;
+  float: left;
+  
+
+}
+
+#form {
+   position: relative;
+   bottom: 480px;
+   top: -580px;
+   left: 390px;
+   box-shadow: 3px 3px #ffffff, -1em 0 0.2em #fbeb00;
+}
+
+.descrição {
+  font-family: "Poppins";
+  font-weight: 300;
+}
+
+.copy {
+  font-family: Arial;
+  color: #ffffff;
+  text-align: center;
+  font-size: 14px;
+  margin-bottom: 10px;
+
+}
+
+
+.input{
+    min-width: 20px;
+    background-color: #ffffff;
+    border-radius: 4px;
+    color: black;
+    padding: 15px;
+    margin: 0px 0px 12px -5px;
+}   
+
+.input i{
+    font-size: 18px;
+    padding: 20px;
+    background-color: aqua;
+
+}
+
+.input input{
+    width: 90%;
+    border: none;
+    outline: none;
+    font-family: "Poppins";
+    transform: translateY(-10x);
+    color: black;
+    font-size: 20px;
+}
+
+#form button {
+    transform: translateY(-10x);
+    -webkit-border-radius: 10;
+    -moz-border-radius: 10;
+    border-radius: 20px;
+    font-family: "Poppins";
+    font-size: 10px;
+    font-weight: bold;
+    color: #000000;
+    background: #ffdd00;
+    padding: 10px 20px 10px 20px;
+    text-decoration: none;
+}
